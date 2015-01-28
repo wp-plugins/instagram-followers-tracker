@@ -1,14 +1,14 @@
 <?php
 /**
  * @package Zebra_Boss
- * @version 0.1
+ * @version 0.2
  */
 /*
 Plugin Name: Instagram Followers Tracking Widget
 Plugin URI: http://zebraboss.com/wordpress
 Description: ZebraBoss Instagram Followers Tracking Widget allows you to track your ZebraBoss statistics for your Instagramm account right from the Wordpress Admin Panel.
 Author: Mike Tishetsky
-Version: 0.1
+Version: 0.2
 Author URI: http://vk.com/tishetsky
 */
 

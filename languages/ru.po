@@ -1,0 +1,102 @@
+# Copyright (C) 2015 Instagram Followers Tracking Widget
+# This file is distributed under the same license as the Instagram Followers Tracking Widget package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Instagram Followers Tracking Widget 0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/instagram-"
+"followers-tracking\n"
+"POT-Creation-Date: 2015-01-28 07:54:52+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: ift.php:21
+msgid "Instagram Followers Tracking options"
+msgstr "Настройки Instagram Followers Tracking"
+
+#: ift.php:21
+msgid "IFT Settings"
+msgstr "Настройки IFT"
+
+#: ift.php:28
+msgid "You do not have sufficient permissions to access this page."
+msgstr "У вас недостаточно прав для доступа к этой странице"
+
+#: ift.php:37
+msgid "JSON extension is required to operate this plugin"
+msgstr "Для работы плагина требуется JSON php extensiion"
+
+#: ift.php:54
+msgid "Loading data failed"
+msgstr "Загрузка данных не удалась"
+
+#: ift.php:67
+msgid "Account name"
+msgstr "Название аккаунта"
+
+#: ift.php:68
+msgid "Followers"
+msgstr "Подписчики"
+
+#: ift.php:69
+msgid "Subscribed"
+msgstr "Добавились"
+
+#: ift.php:70
+msgid "Unsubscribed"
+msgstr "Удалились"
+
+#: ift.php:99
+msgid "View full report"
+msgstr "Посмотреть полный отчёт"
+
+#: options.php:13
+msgid "Settings saved."
+msgstr "Настройки сохранены"
+
+#: options.php:17
+msgid "Instagram Followers Tracker Settings"
+msgstr "Настройки Instagram Followers Tracker"
+
+#: options.php:20
+msgid ""
+"Enter your email used to subscribe to Zebraboss reports or the Zebraboss "
+"report URL"
+msgstr "Введите email, указанный при подписке на отчёты или полный адрес отчёта"
+
+#: options.php:24
+msgid "Save settings"
+msgstr "Сохранить настройки"
+
+#. Plugin Name of the plugin/theme
+msgid "Instagram Followers Tracking Widget"
+msgstr "Виджет Instagram Followers Tracking"
+
+#. Plugin URI of the plugin/theme
+msgid "http://zebraboss.com/wordpress"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"ZebraBoss Instagram Followers Tracking Widget allows you to track your "
+"ZebraBoss statistics for your Instagramm account right from the Wordpress "
+"Admin Panel."
+msgstr "Виджет Instagram Followers Tracking от ZebraBoss позволит вам отслеживать"
+"статистику ZebraBoss для вашего аккаунта в Instagram прямо в админ-панели вашего Вордпресса"
+
+#. Author of the plugin/theme
+msgid "Mike Tishetsky"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://vk.com/tishetsky"
+msgstr ""
+
+msgid "Not subsribed to reports?"
+msgstr "Ещё не подписаны на отчёты?"
+
+msgid "Subscribe here!"
+msgstr "Подпишитесь здесь!"
