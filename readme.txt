@@ -5,7 +5,7 @@ Donate link: http://www.zebraboss.com/
 Tags: instagram, follower, tracker, wordpress, who unfollowed, who followed
 Requires at least: 3.0.1
 Tested up to: 3.4
-Stable tag: 4.0.1
+Stable tag: 0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -40,6 +40,10 @@ Go to www.ZebraBoss.com and fill out the form in the [Contacts](http://www.zebra
 2. /assets/screenshot-2.png
 
 == Changelog ==
+= 0.2 =
+* Minor fixes
+* Added languages support 
+* Russian language pack included (locales ru and ru_RU)
 
 = 0.1 =
 * The very first version.
